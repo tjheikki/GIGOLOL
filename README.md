@@ -8,6 +8,8 @@ The woke-compliant programming language
   ![image](https://user-images.githubusercontent.com/16526467/227477097-b44922f5-623f-405d-93a5-d2a07fde413a.png)<br>
   This supports comparing variable contents, names or anything you like.
 
+* As nothing should be an object, GIGOLOL is an "OD"-language, "Object Disoriented".
+
 * Things are not black and white. Bits are redefined as:
   0 = "generally not considered true"
   1 = "it's widely known, that.."
