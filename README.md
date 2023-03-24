@@ -12,3 +12,5 @@
   1 = "it's widely known, that"
 
 * Imperialistic or cultural structures like human languages are not supported, all structures need to be symbols not connected to specific ethnic or other cultures. Emojis or common programming symbols may be used, when not connected to such cultures. Note that Arrow symbols obviously are cultural appropriation of native American cultures and as such not allowed.
+
+* As results of all comparisons can be resolved at compile time, code performing (never use the word "execution") is exceptionally fast in GIGOLOL.
