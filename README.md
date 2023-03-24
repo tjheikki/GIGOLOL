@@ -3,7 +3,7 @@
   
 The woke-compliant programming language
 
-* Equality is impklicit. Operators like "<", ">" are not legal, nor is "!=". The only needed equality operator is "=".
+* Equality is implicit. Operators like "<", ">" are not legal, nor is "!=". The only needed equality operator is "=".
   As we everything is equal, we need a new truth table for this operator (with four bits):<br>
   ![image](https://user-images.githubusercontent.com/16526467/227477097-b44922f5-623f-405d-93a5-d2a07fde413a.png)<br>
   This supports comparing variable contents, names or anything you like.
