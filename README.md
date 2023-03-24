@@ -1,5 +1,5 @@
 # GIGOLOL
-  "Garbage In - Garbage Out - LOL"
+  "Garbage In - Garbage Out - Language Of Like"
   
 The woke-compliant programming language
 
