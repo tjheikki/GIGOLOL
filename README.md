@@ -10,9 +10,9 @@ The woke-compliant programming language
 
 * As nothing should be an object, GIGOLOL is an "OD"-language, "Object Disoriented".
 
-* Things are not black and white. Bits are redefined as:
+* Things are not black and white. Things should not be binary, thus quantum computing is highly recommended. If limited to pre-woke binary hardware, "bits" shall be called "nonbinary limbs", or "nols", that have the values:
   0 = "generally not considered true"
-  1 = "it's widely known, that.."
+  1 = "it's widely known, that.."  
 
 * Imperialistic or cultural structures like human languages are not supported, all structures need to be symbols not connected to specific ethnic or other cultures. Emojis or common programming symbols may be used, when not connected to such cultures. Note that Arrow symbols obviously are cultural appropriation of native American cultures and as such not allowed.
 
