@@ -3,7 +3,7 @@
   
 The politically correct programming language
 
-It is widely known, that American history of slavery demands forbidding using words that can be considered related to slavery in any context, like information technology. "Master" used to be the senior practitioner of something who teaches his/her knowledge to the next generation, but because of American slavery the word is now evil, thus pretty much any computer system need be risked by retrospectively renaming the root directory of most software being used. This political correctness, or wokeness, naturally extends to gender, age, mental capacity, skin color or any differences. To stay safe from accidentally using evil words/symbols, all IT development need to be made woke-waterproof, GIGOLOL developed to fill the need of such a safe programming language.
+It is widely known, that American history of slavery demands forbidding using words that can be considered related to slavery in any context, like information technology. "Master" used to be the senior practitioner of something who teaches his/her knowledge to the next generation, but because of American slavery the word is now evil, thus pretty much any computer system need be risked by retrospectively renaming the root branch/directory of most software being used. This political correctness, or wokeness, naturally extends to gender, age, mental capacity, skin color or any differences. To stay safe from accidentally using evil words/symbols, all IT development need to be made woke-waterproof, GIGOLOL attempting to fill the need of such a safe programming language.
 
 Main concepts:
 
